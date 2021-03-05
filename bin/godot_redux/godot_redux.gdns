@@ -1,0 +1,9 @@
+[gd_resource type="NativeScript" load_steps=2 format=2]
+
+[ext_resource path="res://bin/godot_redux/godot_redux.gdnlib" type="GDNativeLibrary" id=1]
+
+[resource]
+
+resource_name = "GodotRedux"
+class_name = "GodotRedux"
+library = ExtResource( 1 )
