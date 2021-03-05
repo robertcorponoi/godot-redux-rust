@@ -2,7 +2,7 @@
   <img width="222" height="208" src="https://raw.githubusercontent.com/robertcorponoi/graphics/master/godot-redux/logo/godot-redux-rust-logo.png">
 </p>
 
-<h1 align="center">Godot Redux</h1>
+<h1 align="center">Godot Redux Rust</h1>
 
 <p align="center">A nativescript implementation of Redux.<p>
 
